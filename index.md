@@ -65,7 +65,7 @@ Due to the Cognitiva be a small software house, the roles of developer, operatio
 
 I highlight my participation in ISO certification acquired by Cognitiva.
 
-**Sumary of activities**
+**Summary of activities**
 - Implement new features, bugfixes and hotfixes in Juridicial softwares made in Java and PHP;
     - Stack Java used Java 1.5 - OCJ4 Container - Oracle 10g;
     - Stack PHP4 used Apache/MySQL5;
