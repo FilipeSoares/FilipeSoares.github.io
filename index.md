@@ -22,7 +22,7 @@ I believe that motivational factors are diverse and that good work environments 
 * Docs with [ApiDoc](http://apidocjs.com/) and [Swagger](https://swagger.io/)
 * Develop libs to reuse by other teams. Like Utils, Persistence, Clients, etc
 * Define and document patterns to all teams under factory;
-    * Namming patterns;
+    * Naming patterns;
     * Packages structure;
     * Best practices;
     * Clean code;
