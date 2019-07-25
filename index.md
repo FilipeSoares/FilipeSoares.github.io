@@ -104,7 +104,7 @@ Technologies that I already worked on:
 # Study Target
 > Docker, Service Mesh, DevOps, AWS, React/Native, Angular, Firebase, Google Cloud, Ngynx, Apache Kafka, OpenID, GraphQL, Microservices, Functional Programming, NoSQL, Serverless, PWA, English
 
-# Pages and Contact
+# Medias
 
 [Github](https://github.com/filipesoares)<br>
 [LinkedIn](https://www.linkedin.com/in/filipesoares/)<br>
