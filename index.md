@@ -101,14 +101,12 @@ Technologies that I already worked on:
 ### Others
 > Git, GitLab, Heroku, AWS EC2, Docker, Jenkins, SonarQube, Eclipse, VS Code, Maven, Gradle, Continuous Integration/Deployment, Postman
 
-# Study Backlog
+# Study Target
+> Docker, Service Mesh, DevOps, AWS, React/Native, Angular, Firebase, Google Cloud, Ngynx, Apache Kafka, OpenID, GraphQL, Microservices, Functional Programming, NoSQL, Serverless, PWA, English
 
 # Pages and Contact
 
-[Github](https://github.com/filipesoares)
-
-[LinkedIn](https://www.linkedin.com/in/filipesoares/)
-
-[Gmail](mailto://filipesomstd@gmail.com)
-
-[HackerRank]()
+[Github](https://github.com/filipesoares)<br>
+[LinkedIn](https://www.linkedin.com/in/filipesoares/)<br>
+[Gmail](mailto://filipesomstd@gmail.com)<br>
+[HackerRank](https://www.hackerrank.com/filipesomstd)
