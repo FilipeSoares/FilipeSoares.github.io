@@ -4,11 +4,16 @@ layout: default
 ## About & Background
 I've been working with software development since 2011 and already worked with some domains implementing solutions to web using languages such as: Java, PHP, JavaScript, HTML, CSS.
 
-I have worked across web technologies such as: Java, Php, CSS, HMTL. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, AngularJS, Angular, NodeJS and most recently to React. 
+I have worked across web technologies such as: Java, Php, CSS, HMTL. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, AngularJS, Angular, NodeJS and most recently to React.
 
 Nowadays my focus has been design, develop, improve performance and scalability, reuse, quality, devops automation, best practices, code reviewing, refactoring, design patterns, etc.
 
 I believe that motivational factors are diverse and that good work environments provide a creative and productive atmosphere.
+
+## University Degree
+> System Analysis and Development of Univercidade/RJ, Finished at 2012
+
+> MBA - Project and Process Managemment UCAM/RJ, Finished at 2014
 
 ## Experience
 ### Sonda IT - RJ (April/2017)
@@ -81,7 +86,7 @@ Technologies that I already worked on:
 > JEE8, Spring MVC, Spring Data, Spring REST, Spring Security, Spring Boot, Spring Data Rest, RestEasy, Weld, EJB3, JSF2, Hibernate ORM, Hibernate Validator, JSP, ActiveMQ, JPA, Criteria API
 
 ### Javascript
-> Vanilla JS, jQuery, AngularJS, Angular, ReactJS, NodeJS
+> Javascript(Vanilla), jQuery, AngularJS, Angular, ReactJS, NodeJS
 
 ### Tests
 > Junit, Mockito, PowerMock, Arquillian, Mocha, ChaiJS, RestAssured, Selenium, PHPUnit, Jacoco, Wiremock
@@ -89,7 +94,7 @@ Technologies that I already worked on:
 ### Databases
 > MySQL, Oracle, PostgreSQL, SQLServer, MongoDB
 
-### Patterns
+### Patterns & Concepts
 > RESTful, TDD, BDD, DDD, S.O.L.I.D, Oauth2, DevOps
 
 ### Application Servers & Servlet Containers
@@ -101,12 +106,22 @@ Technologies that I already worked on:
 ### Others
 > Git, GitLab, Heroku, AWS EC2, Docker, Jenkins, SonarQube, Eclipse, VS Code, Maven, Gradle, Continuous Integration/Deployment, Postman
 
-# Study Target
+## Learn Target
 > Docker, Service Mesh, DevOps, AWS, React/Native, Angular, Firebase, Google Cloud, Ngynx, Apache Kafka, OpenID, GraphQL, Microservices, Functional Programming, NoSQL, Serverless, PWA, English
 
-# Medias
+## e-Learning
 
-[Github](https://github.com/filipesoares)<br>
-[LinkedIn](https://www.linkedin.com/in/filipesoares/)<br>
-[Gmail](mailto://filipesomstd@gmail.com)<br>
-[HackerRank](https://www.hackerrank.com/filipesomstd)
+# Media
+
+<a href="https://github.com/filipesoares">
+    <img border="0" alt="https://github.com/filipesoares" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
+</a>
+<a href="https://www.linkedin.com/in/filipesoares/">
+    <img border="0" alt="https://www.linkedin.com/in/filipesoares/" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
+<a href="mailto://filipesomstd@gmail.com">
+    <img border="0" alt="mailto://filipesomstd@gmail.com" src="https://img.icons8.com/color/48/000000/gmail.png">
+</a>
+<a href="https://www.hackerrank.com/filipesomstd">
+    <img border="0" width="50" height="50" alt="https://www.hackerrank.com/filipesomstd" src="https://simpleicons.org/icons/hackerrank.svg">
+</a>
