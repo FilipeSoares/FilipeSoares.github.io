@@ -11,9 +11,9 @@ Nowadays my focus has been design, develop, improve performance and scalability,
 I believe that motivational factors are diverse and that good work environments provide a creative and productive atmosphere.
 
 ## University Degree
-> System Analysis and Development of Univercidade/RJ, Finished at 2012
+> System Development and Analysis at Univercidade/RJ, (2012)
 
-> MBA - Project and Process Managemment UCAM/RJ, Finished at 2014
+> MBA - Project and Process Management at UCAM/RJ, (2014)
 
 ## Experience
 ### Sonda IT - RJ (April/2017)
